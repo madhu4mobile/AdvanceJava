@@ -21,6 +21,7 @@ public class MethodsExplained {
         int score = 800;
         int finalScore = score;
         */
+        // Java allows to declare the local variables like levelCompleted and bonus instead of passing their values.
         calculateScore(true,800,levelCompleted,bonus);
 //Challenge
         /*
