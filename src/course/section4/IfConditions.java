@@ -1,4 +1,4 @@
-package course;
+package course.section4;
 
 public class IfConditions {
     public static void main(String[] args) {

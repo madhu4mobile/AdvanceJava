@@ -1,4 +1,4 @@
-package course;
+package course.section4;
 
 public class TernaryOperator {
     public static void main(String[] args) {
